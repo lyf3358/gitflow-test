@@ -1,0 +1,1 @@
+const index2 = 'index2'
